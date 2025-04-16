@@ -1,0 +1,15 @@
+﻿  Complex.cpp
+  DiscriminantSolver.cpp
+  EquationSolverApp.cpp
+  for_laba_1.cpp
+C:\Users\Maksim\source\repos\Лабораторный практикум\laba_3\for_laba_1.cpp(17,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\laba_3\for_laba_1.cpp(144,52): warning C4101: c: неиспользованная локальная переменная
+C:\Users\Maksim\source\repos\Лабораторный практикум\laba_3\for_laba_1.cpp(211,12): warning C4101: D: неиспользованная локальная переменная
+  maincpp.cpp
+  SolverFactory.cpp
+  VietaSolver.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 212 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  laba_3.vcxproj -> C:\Users\Maksim\source\repos\Лабораторный практикум\Лабораторный практикум\x64\Release\laba_3.exe
