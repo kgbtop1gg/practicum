@@ -1,0 +1,336 @@
+﻿  Archer.cpp
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(91,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(91,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(116,111): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(116,111): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(116,111): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(116,111): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(116,111): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(116,55): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(116,55): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(116,55): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(116,55): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(116,55): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(117,111): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(117,111): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(117,111): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(117,111): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(117,111): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(117,55): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(117,55): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(117,55): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(117,55): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(117,55): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(240,36): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(241,36): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(247,38): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(274,25): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(275,25): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(294,25): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(295,25): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(314,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(315,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Archer.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Archer.cpp(182,12):
+          выполняется компиляция ссылки на экземпляр шаблон функции "void std::vector<Arrow,std::allocator<Arrow>>::emplace_back<float,float,sf::Vector2f&,float&,int&,int>(float &&,float &&,sf::Vector2f &,float &,int &,int &&)"
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(858,24):
+          выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<float,float,sf::Vector2f&,float&,int&,int>(float &&,float &&,sf::Vector2f &,float &,int &,int &&)"
+          with
+          [
+              _Ty=Arrow
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(776,20):
+          выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<float,float,sf::Vector2f&,float&,int&,int>(float &&,float &&,sf::Vector2f &,float &,int &,int &&)"
+          with
+          [
+              _Ty=Arrow
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(794,27):
+          выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,float,float,sf::Vector2f&,float&,int&,int>(_Alloc &,_Objty *const ,float &&,float &&,sf::Vector2f &,float &,int &,int &&)"
+          with
+          [
+              _Alloc=std::allocator<Arrow>,
+              _Ty=Arrow,
+              _Objty=Arrow
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:             _Ty=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:         ]
+  (компиляция исходного файла "Archer.cpp")
+  
+  Bat.cpp
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Bat.cpp(89,31): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Bat.cpp(179,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Bat.cpp(180,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Bomb.cpp
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Bomb.cpp(29,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Bomb.cpp(29,49): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Bomb.cpp(29,49): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Bomb.cpp(29,49): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Bomb.cpp(29,49): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Bomb.cpp(77,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Bomb.cpp(85,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Bomb.cpp(86,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Bomb.cpp(114,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Tree.cpp
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Tree.cpp(22,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Tree.cpp(22,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Tree.cpp(27,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Tree.cpp(27,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Tree.cpp(36,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Tree.cpp(36,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Tree.cpp(45,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Tree.cpp(45,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Witch.cpp
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(14,24): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(14,24): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(14,24): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(14,24): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(14,24): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(14,16): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(14,16): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(14,16): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(14,16): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(14,16): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(14,38): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(17,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(17,57): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(17,57): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(17,57): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(17,57): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(17,42): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(17,42): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(17,42): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(17,42): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(17,42): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(19,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(19,57): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(19,57): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(19,57): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(19,57): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(19,42): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(19,42): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(19,42): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(19,42): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(19,42): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(27,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(27,37): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(27,37): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(27,37): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(27,37): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(27,30): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(27,30): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(27,30): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(27,30): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(27,30): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(29,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(29,44): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(29,44): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(29,44): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(29,44): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(29,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(29,38): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(29,38): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(29,38): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(29,38): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(31,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(31,54): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(31,54): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(31,54): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(31,54): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(31,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(31,43): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(31,43): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(31,43): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(31,43): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(70,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(75,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(80,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(85,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(90,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(99,20): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(99,20): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(99,20): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(99,20): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(99,20): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(248,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(248,51): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(248,51): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(248,51): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(248,51): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(248,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(248,40): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(248,40): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(248,40): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(248,40): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(255,68): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(255,68): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(255,68): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(255,68): warning C4244:             T=int
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(255,68): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(255,40): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(255,40): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(255,40): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(255,40): warning C4244:             T=int
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(255,40): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(310,20): warning C4244: return: преобразование "const T" в "int", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(310,20): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(310,20): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(310,20): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(310,20): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(314,20): warning C4244: return: преобразование "const T" в "int", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(314,20): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(314,20): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(314,20): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(314,20): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:         ]
+  (компиляция исходного файла "Witch.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\Witch.cpp(192,10):
+          выполняется компиляция ссылки на экземпляр шаблон функции "void std::vector<Bat,std::allocator<Bat>>::emplace_back<T,T&,int,int,float,float,float>(T &&,T &,int &&,int &&,float &&,float &&,float &&)"
+          with
+          [
+              T=float
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(858,24):
+          выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<float,T&,int,int,float,float,float>(float &&,T &,int &&,int &&,float &&,float &&,float &&)"
+          with
+          [
+              _Ty=Bat,
+              T=float
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(776,20):
+          выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<float,T&,int,int,float,float,float>(float &&,T &,int &&,int &&,float &&,float &&,float &&)"
+          with
+          [
+              _Ty=Bat,
+              T=float
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(794,27):
+          выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,float,T&,int,int,float,float,float>(_Alloc &,_Objty *const ,float &&,T &,int &&,int &&,float &&,float &&,float &&)"
+          with
+          [
+              _Alloc=std::allocator<Bat>,
+              _Ty=Bat,
+              T=float,
+              _Objty=Bat
+          ]
+  
+  WitchProjectile.cpp
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,57): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,57): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,57): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,57): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,51): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,51): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,51): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,51): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,43): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,43): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,43): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,43): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,35): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,35): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,35): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(42,35): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,61): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,61): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,61): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,61): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,61): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,55): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,55): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,55): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,55): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,55): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,47): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,47): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,47): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,47): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,32): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,32): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,32): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,32): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(43,32): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(58,25): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\WitchProjectile.cpp(59,25): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  main.cpp
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(27,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(158,97): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(158,97): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(158,97): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(158,97): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(158,97): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(158,62): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(158,62): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(158,62): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(158,62): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(158,62): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(161,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(161,95): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(161,95): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(161,95): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(161,95): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(161,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(161,60): warning C4244:         with
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(161,60): warning C4244:         [
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(161,60): warning C4244:             T=float
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(161,60): warning C4244:         ]
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(174,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(174,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Maksim\source\repos\Лабораторный практикум\Project3\main.cpp(76,14):
+          выполняется компиляция ссылки на экземпляр шаблон функции "void std::vector<Bat,std::allocator<Bat>>::emplace_back<float&,float&,int,int,int,double,int>(float &,float &,int &&,int &&,int &&,double &&,int &&)"
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(858,24):
+          выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<float&,float&,int,int,int,double,int>(float &,float &,int &&,int &&,int &&,double &&,int &&)"
+          with
+          [
+              _Ty=Bat
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(776,20):
+          выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<float&,float&,int,int,int,double,int>(float &,float &,int &&,int &&,int &&,double &&,int &&)"
+          with
+          [
+              _Ty=Bat
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(794,27):
+          выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,float&,float&,int,int,int,double,int>(_Alloc &,_Objty *const ,float &,float &,int &&,int &&,int &&,double &&,int &&)"
+          with
+          [
+              _Alloc=std::allocator<Bat>,
+              _Ty=Bat,
+              _Objty=Bat
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+  Создание кода...
+  Project3.vcxproj -> C:\Users\Maksim\source\repos\Лабораторный практикум\Лабораторный практикум\x64\Debug\Project3.exe
